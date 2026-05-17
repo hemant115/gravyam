@@ -63,7 +63,7 @@ if (!isset($extra_head)) {
                                 <nav class="main-menu navbar-expand-xl navbar-dark">
                                     <div class="collapse navbar-collapse">
                                         <ul class="navigation">
-                                            <li class="<?php echo $active_page === 'home' ? 'current' : ''; ?>"><a href="index.php">HOME</a></li>
+                                            <li class="<?php echo $active_page === 'home' ? 'current' : ''; ?>"><a href="index.php">HOME1</a></li>
                                             <li class="dropdown <?php echo in_array($active_page, ['company','team'], true) ? 'current' : ''; ?>"><a href="#">ABOUT US</a>
                                                 <ul>
                                                     <li><a href="company.php">COMPANY</a></li>
