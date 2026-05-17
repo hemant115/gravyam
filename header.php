@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<base href="">
+<base href="/">
 <meta charset="utf-8">
 <title>Gravyam | Speciality Chemicals | Surfactant suppliers</title>
 <meta name="description" content="We deals in Surfactant chemicals for Agro Emulsifier, Textile, Constructions, Home Care, Pigment and Paints industries" />
